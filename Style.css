@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+header{
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+nav{
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+    border-radius: 25px;
+}
+
+nav ul {
+    text-align: center;
+}
+nav li {
+    display: inline;
+    margin-right: 10%;
+}
+
+img{
+display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+   border-radius: 25%;
+   border-style: double;
+   border-color: rgb(255, 0, 0);
+   margin-bottom: 5%;
+   
+}
+section {
+    text-align: center;
+    border-style: double;
+    margin-bottom: 5%;
+    border-radius: 2%;
+
+}
+footer p{
+    background-color: aqua;
+    border-radius: 25px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+
+#about {
+    background-color: aqua;
+}
+#about ul {
+    text-align: center;
+}
+#about li {
+    display: inline;
+    margin-right: 10%;
+}
+
+
+#skills {
+    background-color: rgb(163, 104, 232);
+}
+#skills ul {
+    text-align: center;
+}
+#skills li {
+        display: inline;
+        margin-right: 10%;
+    }
+
+
+
+#projects {
+    background-color: rgb(232, 153, 104);
+  
+}
